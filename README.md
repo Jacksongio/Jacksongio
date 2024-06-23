@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Jacksongio
-- 👀 I’m interested in Computer Science, Cybersecurity, and building and troubleshooting hardware.
-- 🌱 I’m currently learning HTML and Java.
-- 📫 How to reach me: jackson@giordano.us
+<img align-"right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07: />
