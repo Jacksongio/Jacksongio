@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jacksongio](https://github.com/Jacksongio)
 
-- 📝 Learn more about me [jack@giotech.ai](jack@giotech.ai)
+- 📝 Learn more about me [jacksongiordano.com](https://jacksongiordano.com/)
 
 - 📫 How to reach me **jack@giotech.ai**
 
