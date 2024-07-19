@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/jacksongio_" target="blank"><img src="https://img.shields.io/twitter/follow/jacksongio_?logo=twitter&style=for-the-badge" alt="jacksongio_" /></a> </p>
 
-- 🔭 I’m currently working on [GioGPT](https://github.com/Jacksongio/GioGPT)
+- 🔭 I’m currently working on [GioGPT](giogpt.com)
 
 - 🌱 I’m currently learning **ASCII, Data Structures, and HTML5**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jacksongio](https://github.com/Jacksongio)
 
-- 📝 Learn more about me [jackson@giordano.us](jackson@giordano.us)
+- 📝 Learn more about me [jack@giotech.ai](jack@giotech.ai)
 
-- 📫 How to reach me **jackson@giordano.us**
+- 📫 How to reach me **jack@giotech.ai**
 
 - ⚡ Fun fact **I started coding in the Fourth Grade!**
 
