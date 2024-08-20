@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [GioGPT](https://giogpt.com/)
 
-- 🌱 I’m currently learning **ASCII, Data Structures, and HTML5**
+- 🌱 I’m currently learning **ASCII, Combinatorics, and HTML5**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jacksongio](https://github.com/Jacksongio)
 
