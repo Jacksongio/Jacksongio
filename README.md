@@ -14,7 +14,7 @@
 
 - 📝 Learn more about me [jacksongiordano.com](https://jacksongiordano.com/)
 
-- 📫 How to reach me **jack@giotech.ai**
+- 📫 How to reach me **jackson@giordano.us**
 
 - ⚡ Fun fact **I started coding in the Fourth Grade!**
 
