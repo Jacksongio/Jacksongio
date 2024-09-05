@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/jacksongio_" target="blank"><img src="https://img.shields.io/twitter/follow/jacksongio_?logo=twitter&style=for-the-badge" alt="jacksongio_" /></a> </p>
 
-- 🔭 I’m currently working on [GioGPT](https://giogpt.com/)
+- 🔭 I’m currently working on [CryptoAnalyzer]([https://giogpt.com/](https://github.com/Jacksongio/CryptoAnalyzer))
 
 - 🌱 I’m currently learning **ASCII, Combinatorics, and HTML5**
 
