@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [CryptoAnalyzer]([https://giogpt.com/](https://github.com/Jacksongio/CryptoAnalyzer))
 
-- 🌱 I’m currently learning **ASCII, Combinatorics, and HTML5**
+- 🌱 I’m currently learning **Cybersecurity Methods**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jacksongio](https://github.com/Jacksongio)
 
