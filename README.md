@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jacksongio_" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/034/716/140/large_2x/x-new-twitter-logo-free-png.png" alt="jacksongio_" height="30" width="40" /></a>
+<a href="https://twitter.com/jacksongio_" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-white-round-icon.png" alt="jacksongio_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jacksongio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jacksongio" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/26195975" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26195975" height="30" width="40" /></a>
 <a href="https://fb.com/jacksongio02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jacksongio02" height="30" width="40" /></a>
