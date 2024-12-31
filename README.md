@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **jackson@giordano.us**
 
-- ⚡ Fun fact **I started coding in the Fourth Grade!**
+- ⚡ Fun fact **I started coding in the Fourth Grade.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
