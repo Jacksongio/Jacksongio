@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jacksongio_" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-512.png" alt="jacksongio_" height="30" width="40" /></a>
+<a href="https://twitter.com/jacksongio_" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fuxwing.com%2Fx-social-media-white-round-icon%2F&psig=AOvVaw0caQ8JRVMyJtrBtGxIlJyG&ust=1735761448230000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCG_Lfl0ooDFQAAAAAdAAAAABAE" alt="jacksongio_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jacksongio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jacksongio" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/26195975" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26195975" height="30" width="40" /></a>
 <a href="https://fb.com/jacksongio02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jacksongio02" height="30" width="40" /></a>
