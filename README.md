@@ -38,7 +38,7 @@
 -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacksongio&show_icons=true&locale=en" alt="jacksongio" /></p>
 
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jacksongio&" alt="jacksongio" /></p>-->
+<p><img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jacksongio&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)" alt="jacksongio" /></p>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/jacksongio"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jacksongio" /></a></p><br><br>
 
