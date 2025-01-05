@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [GioBlockChain]([https://giogpt.com/](https://github.com/Jacksongio/gioblockchain))
 
-- 🌱 I’m currently learnin **Cybersecurity Methods**
+- 🌱 I’m currently learning **Blockchain Strategies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jacksongio](https://github.com/Jacksongio)
 
