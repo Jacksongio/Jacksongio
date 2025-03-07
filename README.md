@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Blockchain Strategies**
 
-- 👨‍💻 My Resume is available at [https://github.com/resume](https://github.com/resume)
+- 👨‍💻 My Resume is available at [https://github.com/resume](https://github.com/jacksongio/resume)
 
 - 📝 Learn more about me [jacksongiordano.com](https://jacksongiordano.com/)
 
