@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/jacksongio_" target="blank"><img src="https://img.shields.io/twitter/follow/jacksongio_?logo=twitter&style=for-the-badge" alt="jacksongio_" /></a> </p>
 
-- 🔭 I’m currently working on [GioBlockChain]([https://giogpt.com/](https://github.com/Jacksongio/gioblockchain))
+- 🔭 I’m currently working on [miniZip]([https://giogpt.com/](https://github.com/Jacksongio/miniZip))
 
-- 🌱 I’m currently learning **Blockchain Strategies**
+- 🌱 I’m currently learning **Compression Algorithm Strategies**
 
 - 👨‍💻 My Resume is available at [https://github.com/resume](https://github.com/jacksongio/resume)
 
